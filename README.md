@@ -13,14 +13,15 @@ MVVM来自[微软](https://msdn.microsoft.com/en-us/library/hh848246.aspx)，是
 
 ![](http://7u2k5i.com1.z0.glb.clouddn.com/github_mvvmdemo1.png?imageMogr2/thumbnail/!50p)
 
-Model:数据的模型
+Model:  数据的模型
 
-View:其实包括View和ViewController两部分，统称为View
+View:  其实包括View和ViewController两部分，统称为View
 
-ViewModel:本Demo，主要是处理网络请求，把获取的数据显示在TableView上
+ViewModel:  本Demo，主要是处理网络请求，把获取的数据显示在TableView上
 
 另外
-TableViewProtocol:为了避免ViewController太重，我把TableView的DataSource和Delegate分离出来
+
+TableViewProtocol:  为了避免ViewController太重，我把TableView的DataSource和Delegate分离出来
 
 ###MVVMDemo的效果预览
 
