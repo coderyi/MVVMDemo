@@ -30,3 +30,5 @@ MVVM来自[微软](https://msdn.microsoft.com/en-us/library/hh848246.aspx)，是
 参考链接：
 
 [Model-View-ViewModel for iOS (译)](http://www.cnblogs.com/brycezhang/p/3840567.html)
+
+copyright (c) 2015 coderyi.all rights reserved.
