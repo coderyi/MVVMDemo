@@ -9,7 +9,7 @@ MVVM来自[微软](https://msdn.microsoft.com/en-us/library/hh848246.aspx)，是
 
 图片来自http://www.teehanlax.com/blog/model-view-viewmodel-for-ios/
 
-###MVVMDemo的架构
+### MVVMDemo的架构
 
 ![](http://7u2k5i.com1.z0.glb.clouddn.com/github_mvvmdemo1.png?imageMogr2/thumbnail/!50p)
 
@@ -23,7 +23,7 @@ MVVM来自[微软](https://msdn.microsoft.com/en-us/library/hh848246.aspx)，是
 
 **TableViewProtocol**:  为了避免ViewController太重，我把TableView的DataSource和Delegate分离出来
 
-###MVVMDemo的效果预览
+### MVVMDemo的效果预览
 
 ![](http://7u2k5i.com1.z0.glb.clouddn.com/github_mvvmdemo_appfile.png?imageMogr2/thumbnail/!40p)
 
